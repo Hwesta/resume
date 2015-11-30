@@ -1,0 +1,27 @@
+body {
+    padding-right: 1em;
+    padding-left: 1em
+}
+
+h1, h2, h3, h4, h5, h6 {
+    border-bottom: 1px solid #000000;
+}
+
+.project {
+    font-weight: bold;
+}
+
+.project-at {
+    font-style: italic;
+    font-weight: normal;
+}
+
+.dates {
+    font-style: italic;
+    font-weight: normal;
+    float: right;
+}
+
+dt {
+    font-weight: bold;
+}
