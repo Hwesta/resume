@@ -22,6 +22,12 @@ h1, h2, h3, h4, h5, h6 {
     float: right;
 }
 
+#technical div {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
 dt {
     font-weight: bold;
 }
