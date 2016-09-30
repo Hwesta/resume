@@ -94,6 +94,10 @@ Talks
     [Slides](https://docs.google.com/presentation/d/1Tec9Xuw-unYWXvaacjt_uhJKKBn6P07ABiZc8Cs3h90/edit?usp=sharing))
     An introduction to the different common implementations of Python:
     CPython, Pypy, Cython, Jython, IronPython.
+-   vcr.py (Lightning talk,
+    [Slides](https://docs.google.com/presentation/d/1IHhezoU9L6Y_--O8TVjQqCkWs-BveCBtgPzymi3dfMg/edit?usp=sharing))
+    An overview of vcr.py, a python mocking library for HTTP requests
+    that autogenerates fixtures from live data.
 
 
 
