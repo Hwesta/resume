@@ -2,6 +2,7 @@ Holly Becker
 ============
 
 **Email:** becker.holly@gmail.com
+**Location:** Metro Vancouver, Canada
 
 
 Technical Summary
