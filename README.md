@@ -99,6 +99,11 @@ Talks
     [Slides](https://docs.google.com/presentation/d/1IHhezoU9L6Y_--O8TVjQqCkWs-BveCBtgPzymi3dfMg/edit?usp=sharing))
     An overview of vcr.py, a python mocking library for HTTP requests
     that autogenerates fixtures from live data.
+-   Intermediate Git Tutorial (Workshop,
+    [Slides](https://docs.google.com/presentation/d/1sfwfoUWerwEtzkJF7O_l7jnHsbCq-czKWIWxjoDV9QI/edit?usp=sharing))
+    Workshop on using git with other people. Covered forking & pull
+    requests on Github, git remotes, merging & rebasing. Co-created
+    & co-presented.
 
 
 
