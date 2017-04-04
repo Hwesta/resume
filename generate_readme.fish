@@ -1,3 +1,3 @@
 #!/usr/bin/fish
 
-pandoc -f html -t markdown resume.html | egrep -v '</?div' | sed 's%<span class="project">%%' | sed 's%</span> <span class="project-at">%\n\n*%' | sed 's%</span> <span class="dates">%, %' | sed 's%</span>%*%' | sed 's%-   \*\*%\*\*%' > README.md
+pandoc -f html -t markdown resume.html | egrep -v '</?div' | sed 's%# \[%# %' | sed 's%\]{.project} \[%\n\n*%' | sed 's%\]{.project-at} \[%, %' | sed 's%\]{.dates}%*%' | sed 's%-   \*\*%\*\*%' > README.md
