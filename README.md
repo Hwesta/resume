@@ -37,7 +37,7 @@ Experience
 
 ### Lead Archivematica Developer
 
-*Artefactual, May 2013-present*
+*Artefactual, May 2013-March 2017*
 
 -   Improved software quality by adding a code review process and
     automated tests to a legacy codebase.
@@ -102,8 +102,8 @@ Talks
 -   Intermediate Git Tutorial (Workshop,
     [Slides](https://docs.google.com/presentation/d/1sfwfoUWerwEtzkJF7O_l7jnHsbCq-czKWIWxjoDV9QI/edit?usp=sharing))
     Workshop on using git with other people. Covered forking & pull
-    requests on Github, git remotes, merging & rebasing. Co-created
-    & co-presented.
+    requests on Github, git remotes, merging & rebasing. Co-created &
+    co-presented.
 
 
 
