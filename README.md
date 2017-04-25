@@ -1,7 +1,7 @@
 Holly Becker
 ============
 
-**Email:** becker.holly@gmail.com
+**Email:** holly@hollybecker.net
 **Location:** Metro Vancouver, Canada
 
 
