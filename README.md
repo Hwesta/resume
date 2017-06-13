@@ -104,6 +104,11 @@ Talks
     Workshop on using git with other people. Covered forking & pull
     requests on Github, git remotes, merging & rebasing. Co-created &
     co-presented.
+-   Can I Use that Code?
+    ([Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
+    Overview of software licences, covering different categories of
+    licences, details of the GPL and MIT licences, and how they interact
+    in the same codebase.
 
 
 
