@@ -75,17 +75,6 @@ Experience
     a local expert on my team for parts of it.
 -   *Skills:* C, C++
 
-### Junior C++ Developer (Co-op)
-
-*Magellan Interactive, May-August 2009*
-
--   Programmed for the Wii using a multi-platform in-house engine.
--   Independently worked on coding the menu system and the in-game UI
-    based on the provided specs.
--   Contributed to the in-house wiki on code structure, build
-    instructions and other setup documentation.
--   *Skills:* C++, games programming
-
 
 
 ### B.Sc. in Computing Science
