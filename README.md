@@ -35,6 +35,14 @@ Technical Summary
 Experience
 ----------
 
+### Software Developer
+
+*Sauce Labs, September 2017-present*
+
+-   Software developer on the Connected Cloud team, dealing with
+    scalability and reliability of virtual machines used for testing.
+-   *Skills:* Python
+
 ### Lead Archivematica Developer
 
 *Artefactual, May 2013-March 2017*
