@@ -4,7 +4,6 @@ Holly Becker
 **Email:** holly@hollybecker.net
 **Location:** Metro Vancouver, Canada
 
-::: {#technical .section}
 Technical Summary
 -----------------
 
@@ -29,9 +28,7 @@ Technical Summary
 -   AngularJS (Javascript)
 -   py.test (Python)
 -   SqlAlchemy (Python)
-:::
 
-::: {#work .section}
 Experience
 ----------
 
@@ -81,17 +78,13 @@ Experience
 -   Navigated around a code base of 11 million lines of code and became
     a local expert on my team for parts of it.
 -   *Skills:* C, C++
-:::
 
-::: {#education .section}
 ### B.Sc. in Computing Science
 
 *Simon Fraser University, 2012*
 
 Concentration in Computing Systems, Dean\'s Honour Roll all semesters.
-:::
 
-::: {#talks .section}
 Talks
 -----
 
@@ -113,9 +106,7 @@ Talks
     [Slides](https://docs.google.com/presentation/d/1Tec9Xuw-unYWXvaacjt_uhJKKBn6P07ABiZc8Cs3h90/edit?usp=sharing))
     An introduction to the different common implementations of Python:
     CPython, Pypy, Cython, Jython, IronPython.
-:::
 
-::: {#links .section}
 External
 --------
 
@@ -124,4 +115,3 @@ External
 -   [Stack Overflow
     Careers](https://careers.stackoverflow.com/hollybecker)
 -   [LinkedIn](https://ca.linkedin.com/in/holly-becker-586b0137)
-:::
