@@ -1,7 +1,7 @@
 Holly Becker
 ============
 
-**Email:** holly@hollybecker.net
+**Email:** holly\@hollybecker.net
 **Location:** Metro Vancouver, Canada
 
 Technical Summary
@@ -34,7 +34,7 @@ Experience
 
 ### Software Developer
 
-*Sauce Labs, September 2017-present*
+*Sauce Labs, September 2017-March 2018*
 
 -   Software developer on the Connected Cloud team, dealing with
     scalability and reliability of virtual machines used for client
