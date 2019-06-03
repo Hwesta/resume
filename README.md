@@ -4,45 +4,59 @@ Holly Becker
 **Email:** holly\@hollybecker.net
 **Location:** Metro Vancouver, Canada
 
-Technical Summary
------------------
+Skills
+------
 
-### Skilled
+### Experienced
 
 -   Python
 -   Django
--   Linux (Arch, Ubuntu)
 -   git
+-   Linux
+-   Developer documentation
 
 ### Familiar
 
 -   Ansible
 -   C/C++
--   Erlang
--   Go
--   Haskell
+-   Docker, docker-compose
 -   HTML & CSS
+-   Markdown
+-   ReStructured Text
 -   Ruby
--   SQL
--   Vagrant
--   AngularJS (Javascript)
 -   py.test (Python)
--   SqlAlchemy (Python)
+-   SQLAlchemy (Python)
 
 Experience
 ----------
+
+### Python Developer
+
+*Eventbase, July 2018-April 2019*
+
+-   Backend software developer creating asynchronous APIs for frontend
+    and mobile teams.
+-   Owned project for a new microservice that integrated our system with
+    an external API, including architecture design, implementation,
+    testing, deployment and subsequent feature requests requiring data
+    migrations.
+-   Led collaboration with other teams to confirm API design before
+    implementation.
+-   Clarified and streamlined out-of-date developer documentation.
+-   Presented git tutorial for coworkers, took over organizing developer
+    lunch & learns, and became a resource for Python & git questions.
+-   *Skills:* Python, aiohttp, Docker, docker-compose
 
 ### Software Developer
 
 *Sauce Labs, September 2017-March 2018*
 
--   Software developer on the Connected Cloud team, dealing with
-    scalability and reliability of virtual machines used for client
-    automated testing.
--   Help investigate performance issues, implement potential solutions,
-    verify performance improvements.
--   Improve documentation on internal tools and onboarding documentation
-    for my team.
+-   Software developer dealing with scalability & reliability of virtual
+    machines used for client automated testing.
+-   Helped investigate performance issues, implemented solutions &
+    verified improvements.
+-   Improved documentation on internal tools and on-boarding for my
+    team.
 -   *Skills:* Python, Ansible, Go
 
 ### Lead Archivematica Developer
@@ -51,13 +65,13 @@ Experience
 
 -   Software developer for Archivematica, an open-source,
     standards-based digital preservation tool.
--   Improved software quality by adding a code review process and
-    automated tests to a legacy codebase.
--   Maintained an up-to-date codebase by upgrading core frameworks and
-    reviewing improved libraries for inclusion.
+-   Added a code review process and automated testing to a legacy
+    codebase to improve software quality.
+-   Upgraded core frameworks and evaluated replacements for deprecated
+    dependencies to maintain an up-to-date and secure codebase.
 -   Upgraded legacy raw SQL migrations to use Django\'s migrations,
     including data migrations.
--   Communicated with systems analysts to understand and refine feature
+-   Collaborated with systems analysts to understand and refine feature
     requirements based on domain knowledge and technical difficulty.
 -   Answered internal and community questions for technical and
     non-technical audiences.
@@ -66,29 +80,14 @@ Experience
 -   *Skills:* Python, Django, git, py.test, AngularJS
 -   [GitHub](https://github.com/artefactual/)
 
-### Software Developer (Co-op)
-
-*Ericsson, September 2010-August 2011*
-
--   Programmed for embedded software on a router and ran integration
-    tests with my team.
--   Handled bugs: submitting, following up, retesting, clarifying,
-    providing additional logs, basic triaging, testing to find the
-    cause, fixing and closing.
--   Navigated around a code base of 11 million lines of code and became
-    a local expert on my team for parts of it.
--   *Skills:* C, C++
-
 ### B.Sc. in Computing Science
 
 *Simon Fraser University, 2012*
 
-Concentration in Computing Systems, Dean\'s Honour Roll all semesters.
+Presentations
+-------------
 
-Talks
------
-
--   Can I Use that Code? (Talk,
+-   Can I Use that Code? (Conference talk,
     [Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
     Overview of software licences, covering different categories of
     licences, details of common open-source licences, and how they
@@ -101,7 +100,7 @@ Talks
 -   vcr.py (Lightning talk,
     [Slides](https://docs.google.com/presentation/d/1IHhezoU9L6Y_--O8TVjQqCkWs-BveCBtgPzymi3dfMg/edit?usp=sharing))
     An introduction to vcr.py, a python mocking library for HTTP
-    requests that autogenerates fixtures from live data.
+    requests that auto-generates fixtures from live data.
 -   Python Implementations (Lightning talk,
     [Slides](https://docs.google.com/presentation/d/1Tec9Xuw-unYWXvaacjt_uhJKKBn6P07ABiZc8Cs3h90/edit?usp=sharing))
     An introduction to the different common implementations of Python:
