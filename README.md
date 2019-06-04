@@ -37,36 +37,35 @@ Experience
 -   Backend software developer creating asynchronous APIs for frontend
     and mobile teams.
 -   Owned project for a new microservice that integrated our system with
-    an external API, including architecture design, implementation,
-    testing, deployment and subsequent feature requests requiring data
+    an external API, including architecture, implementation, testing,
+    deployment and subsequent feature requests requiring data
     migrations.
 -   Led collaboration with other teams to confirm API design before
-    implementation.
+    starting implementation.
 -   Clarified and streamlined out-of-date developer documentation.
 -   Presented git tutorial for coworkers, took over organizing developer
     lunch & learns, and became a resource for Python & git questions.
--   *Skills:* Python, aiohttp, Docker, docker-compose
+-   *Skills:* Python, aiohttp, Docker, docker-compose, git, py.test
 
 ### Software Developer
 
 *Sauce Labs, September 2017-March 2018*
 
--   Software developer dealing with scalability & reliability of virtual
-    machines used for client automated testing.
+-   Developer dealing with scalability & reliability of VMs used for
+    client automated testing.
 -   Helped investigate performance issues, implemented solutions &
     verified improvements.
--   Improved documentation on internal tools and on-boarding for my
-    team.
+-   Improved documentation on internal tools and onboarding for my team.
 -   *Skills:* Python, Ansible, Go
 
 ### Lead Archivematica Developer
 
 *Artefactual, May 2013-March 2017*
 
--   Software developer for Archivematica, an open-source,
-    standards-based digital preservation tool.
--   Added a code review process and automated testing to a legacy
-    codebase to improve software quality.
+-   Full-stack developer on Archivematica, an open-source digital
+    preservation tool.
+-   Added code review process & automated testing to a legacy codebase
+    to improve quality.
 -   Upgraded core frameworks and evaluated replacements for deprecated
     dependencies to maintain an up-to-date and secure codebase.
 -   Upgraded legacy raw SQL migrations to use Django\'s migrations,
@@ -75,9 +74,9 @@ Experience
     requirements based on domain knowledge and technical difficulty.
 -   Answered internal and community questions for technical and
     non-technical audiences.
--   Wrote developer-facing documentation, helped analysts write
+-   Wrote developer-facing documentation & helped analysts write
     user-facing documentation.
--   *Skills:* Python, Django, git, py.test, AngularJS
+-   *Skills:* Python, Django, git, py.test, HTML & CSS, AngularJS
 -   [GitHub](https://github.com/artefactual/)
 
 ### B.Sc. in Computing Science
