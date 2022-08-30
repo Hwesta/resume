@@ -1,34 +1,56 @@
-Holly Becker
-============
+# Holly Becker
 
-**Email:** holly\@hollybecker.net
-**Location:** Metro Vancouver, Canada
+**Email:** holly@hollybecker.net
+**Location:** Vancouver, Canada
 
-Skills
-------
+## Skills
 
 ### Experienced
 
--   Python
--   Django
+-   Python & Django
+-   Ruby on Rails
 -   git
 -   Linux
 -   Developer documentation
 
 ### Familiar
 
--   Ansible
--   C/C++
+-   MySQL & PostgreSQL
 -   Docker, docker-compose
 -   HTML & CSS
--   Markdown
--   ReStructured Text
--   Ruby
--   py.test (Python)
--   SQLAlchemy (Python)
+-   AWS
 
-Experience
-----------
+## Experience
+
+### Senior Software Development Engineer
+
+*IT Glue, July 2019-May 2022*
+
+-   Wrote, tested, and reviewed Ruby on Rails code across two codebases
+    using both MySQL and PostgreSQL databases, focusing on database
+    performance.
+-   Main contributor to upgrading authorization libraries, including
+    finding and fixing security bugs.
+-   Regularly presented on technical topics, such as ongoing database
+    changes, and git usage & best practices.
+-   Investigated performance impacts of a major database change and
+    implemented a solution, reducing both memory usage by
+-   30% and support requests related to web request timeouts.
+-   Did regular rotations on support escalations, troubleshooting where
+    the problem was and fixing it for that customer or addressing the
+    root cause, if possible.
+-   Improved developer experience by scripting development environment
+    setup, improving test coverage, fixing flakey tests & warnings, and
+    writing technical documentation.
+-   Onboarded junior developers about our development process, answered
+    questions, and paired.
+-   Promoted transparent developer culture and public technical
+    discussions that everyone could learn from, shared workflow
+    improvements.
+-   Self-organized working on urgent projects during extended management
+    turnover.
+-   *Skills:* Ruby, Rails, rspec, MySQL, PostgreSQL, Docker,
+    docker-compose, git
 
 ### Python Developer
 
@@ -36,55 +58,35 @@ Experience
 
 -   Backend software developer creating asynchronous APIs for frontend
     and mobile teams.
--   Owned project for a new microservice that integrated our system with
-    an external API, including architecture, implementation, testing,
-    deployment and subsequent feature requests requiring data
-    migrations.
+-   Wrote & expanded new async Python 3 microservices as part of a
+    project to switch from PHP monolith. Contributed to best practices
+    and shared templates for microservices.
 -   Led collaboration with other teams to confirm API design before
     starting implementation.
--   Clarified and streamlined out-of-date developer documentation.
--   Presented git tutorial for coworkers, took over organizing developer
-    lunch & learns, and became a resource for Python & git questions.
--   *Skills:* Python, aiohttp, Docker, docker-compose, git, py.test
-
-### Software Developer
-
-*Sauce Labs, September 2017-March 2018*
-
--   Developer dealing with scalability & reliability of VMs used for
-    client automated testing.
--   Helped investigate performance issues, implemented solutions &
-    verified improvements.
--   Improved documentation on internal tools and onboarding for my team.
--   *Skills:* Python, Ansible, Go
+-   Clarified and expanded out-of-date developer documentation.
+-   Team expert in Python & git, presented git tutorial and organized
+    lunch & learns.
+-   *Skills:* Python 3, aiohttp, Docker, docker-compose, git, py.test
 
 ### Lead Archivematica Developer
 
 *Artefactual, May 2013-March 2017*
 
--   Full-stack developer on Archivematica, an open-source digital
-    preservation tool.
--   Added code review process & automated testing to a legacy codebase
-    to improve quality.
--   Upgraded core frameworks and evaluated replacements for deprecated
-    dependencies to maintain an up-to-date and secure codebase.
--   Upgraded legacy raw SQL migrations to use Django\'s migrations,
-    including data migrations.
--   Collaborated with systems analysts to understand and refine feature
-    requirements based on domain knowledge and technical difficulty.
--   Answered internal and community questions for technical and
-    non-technical audiences.
--   Wrote developer-facing documentation & helped analysts write
-    user-facing documentation.
--   *Skills:* Python, Django, git, py.test, HTML & CSS, AngularJS
+-   Designed and implemented customer-driven features in a small team
+    for an open source digital preservation tool in Python 2.
+-   Advocated for technical and process improvements, including code
+    review, automated testing, upgrading core frameworks and replacing
+    deprecated dependencies.
+-   Documented technical architecture, helped with user docs, and
+    answered community questions.
+-   *Skills:* Python 2, Django, git, py.test, HTML & CSS, AngularJS
 -   [GitHub](https://github.com/artefactual/)
 
 ### B.Sc. in Computing Science
 
 *Simon Fraser University, 2012*
 
-Presentations
--------------
+## Presentations
 
 -   Can I Use that Code? (Conference talk,
     [Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
@@ -105,8 +107,7 @@ Presentations
     An introduction to the different common implementations of Python:
     CPython, Pypy, Cython, Jython, IronPython.
 
-External
---------
+## External
 
 -   [Website](http://hollybecker.net)
 -   [GitHub](https://github.com/Hwesta)
