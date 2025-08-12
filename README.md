@@ -7,7 +7,7 @@
 
 ### Experienced
 
--   Python & Django
+-   Python
 -   Ruby on Rails
 -   git
 -   Linux
@@ -15,12 +15,41 @@
 
 ### Familiar
 
--   MySQL & PostgreSQL
 -   Docker, docker-compose
--   HTML & CSS
--   AWS
+-   FastAPI
+-   GitLab CI
+-   PostgreSQL
+-   RSpec & pytest
+-   SQLAlchemy (Python)
 
 ## Experience
+
+### Senior Python Developer
+
+*Salus, April 2023-July 2025*
+
+-   Backend developer for 3rd party API and integrations system,
+    supported analytics work.
+-   Took over ownership of three codebases from senior coworker: adding
+    and expanding endpoints and integrations, troubleshooting
+    integration issues, managing releases.
+-   Used downtime to improve code quality by expanding test coverage and
+    testing infrastructure, fixing bugs, adding linters, and updating
+    Python and libraries for security fixes.
+-   Taught team about database indexes at team retreat and led
+    initiative to add indexes and foreign keys to the database after
+    missing index caused downtime.
+-   Advocated for and contributed to converting database changes from
+    ad-hoc commands to using Flyway to manage structure, and was primary
+    reviewer for database changes.
+-   Researched, selected, and set up documentation solution for public
+    API, and initiated notifying API users of breaking changes,
+    including writing public changelog posts with upgrade path.
+-   Wrote a bot that automatically updated ticket statuses based on
+    merge request status to improve dev team efficiency and
+    communication. Bot was praised by coworkers and management.
+-   *Skills:* Python, FastAPI, sqlalchemy, PostgreSQL, pytest,
+    docker-compose, GitLab CI, git
 
 ### Senior Software Development Engineer
 
@@ -58,9 +87,9 @@
 
 -   Backend software developer creating asynchronous APIs for frontend
     and mobile teams.
--   Wrote & expanded new async Python 3 microservices as part of a
-    project to switch from PHP monolith. Contributed to best practices
-    and shared templates for microservices.
+-   Wrote & expanded async Python 3 microservices as part of a project
+    to switch from PHP monolith. Contributed to best practices and
+    shared templates for microservices.
 -   Led collaboration with other teams to confirm API design before
     starting implementation.
 -   Clarified and expanded out-of-date developer documentation.
@@ -86,8 +115,10 @@
 
 *Simon Fraser University, 2012*
 
-## Presentations
+## Community
 
+-   PyCascades (regional Python conference)
+    -   Volunteer Chair 2023-2025
 -   Can I Use that Code? (Conference talk,
     [Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
     Overview of software licences, covering different categories of
