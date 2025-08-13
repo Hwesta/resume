@@ -30,25 +30,25 @@
 
 -   Backend developer for 3rd party API and integrations system,
     supported analytics work.
--   Took over ownership of three codebases from senior coworker: adding
-    and expanding endpoints and integrations, troubleshooting
-    integration issues, managing releases.
--   Used downtime to improve code quality by expanding test coverage and
-    testing infrastructure, fixing bugs, adding linters, and updating
-    Python and libraries for security fixes.
--   Taught team about database indexes at team retreat and led
-    initiative to add indexes and foreign keys to the database after
-    missing index caused downtime.
+-   Took over ownership of three codebases from senior coworker so they
+    only had to do reviews - handled new features, troubleshooting, and
+    releases with no downtime and no major bugs.
 -   Advocated for and contributed to converting database changes from
     ad-hoc commands to using Flyway to manage structure, and was primary
     reviewer for database changes.
+-   Taught team about database indexes at team retreat and led
+    initiative to add indexes and foreign keys to the database, approved
+    by management after missing index caused site outage.
+-   Generated and implemented improvements when no feature work was
+    available, such as fixing bugs, improving dev tooling, expanding
+    test coverage and infrastructure, and security fix updates.
+-   Wrote a well-received bot that automatically updated ticket statuses
+    based on merge request status, freeing devs and product from nagging
+    for updates.
 -   Researched, selected, and set up documentation solution for public
     API, and initiated notifying API users of breaking changes,
     including writing public changelog posts with upgrade path.
--   Wrote a bot that automatically updated ticket statuses based on
-    merge request status to improve dev team efficiency and
-    communication. Bot was praised by coworkers and management.
--   *Skills:* Python, FastAPI, sqlalchemy, PostgreSQL, pytest,
+-   *Skills:* Python, FastAPI, SQLAlchemy, PostgreSQL, pytest,
     docker-compose, GitLab CI, git
 
 ### Senior Software Development Engineer
