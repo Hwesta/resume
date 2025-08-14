@@ -40,8 +40,8 @@
     initiative to add indexes and foreign keys to the database, approved
     by management after missing index caused site outage.
 -   Generated and implemented improvements when no feature work was
-    available, such as fixing bugs, improving dev tooling, expanding
-    test coverage and infrastructure, and security fix updates.
+    available, such as fixing bugs, improving dev tools, expanding test
+    coverage and infrastructure, and security fix updates.
 -   Wrote a well-received bot that automatically updated ticket statuses
     based on merge request status, freeing devs and product from nagging
     for updates.
@@ -55,29 +55,27 @@
 
 *IT Glue, July 2019-May 2022*
 
--   Wrote, tested, and reviewed Ruby on Rails code across two codebases
-    using both MySQL and PostgreSQL databases, focusing on database
-    performance.
--   Main contributor to upgrading authorization libraries, including
-    finding and fixing security bugs.
--   Regularly presented on technical topics, such as ongoing database
-    changes, and git usage & best practices.
+-   Backend developer in two Ruby on Rails codebases using both MySQL
+    and PostgreSQL databases, focusing on database performance.
+-   Main contributor to authorization library update with no associated
+    security issues and several security bugs fixed.
 -   Investigated performance impacts of a major database change and
-    implemented a solution, reducing both memory usage by
--   30% and support requests related to web request timeouts.
--   Did regular rotations on support escalations, troubleshooting where
-    the problem was and fixing it for that customer or addressing the
-    root cause, if possible.
+    implemented a solution, reducing memory usage by 30% and support
+    requests related to web request timeouts.
+-   Presented internally on technical topics, such as ongoing database
+    changes, and git usage & best practices.
+-   Did regular rotations on support escalations, focusing on fixing the
+    root cause.
 -   Improved developer experience by scripting development environment
-    setup, improving test coverage, fixing flakey tests & warnings, and
-    writing technical documentation.
--   Onboarded junior developers about our development process, answered
+    setup, fixing flakey tests & warnings, and writing technical
+    documentation.
+-   Encouraged and modelled asking questions and having technical
+    discussions in public channels so everyone can see and learn from
+    them.
+-   Onboarded junior developers to our development process, answered
     questions, and paired.
--   Promoted transparent developer culture and public technical
-    discussions that everyone could learn from, shared workflow
-    improvements.
--   Self-organized working on urgent projects during extended management
-    turnover.
+-   Self-organized working on critical urgent projects during extended
+    management turnover.
 -   *Skills:* Ruby, Rails, rspec, MySQL, PostgreSQL, Docker,
     docker-compose, git
 
@@ -119,7 +117,7 @@
 
 -   PyCascades (regional Python conference)
     -   Volunteer Chair 2023-2025
--   Can I Use that Code? (Conference talk,
+-   Can I Use That Code? (Conference talk,
     [Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
     Overview of software licences, covering different categories of
     licences, details of common open-source licences, and how they
