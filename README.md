@@ -31,7 +31,7 @@
 -   Backend developer for an external API and an integrations system,
     supported analytics work.
 -   Owned three Python codebases: handled new features, troubleshooting,
-    and releases with no downtime and no major bugs
+    and releases with no downtime and no major bugs.
 -   Championed database improvements:
     -   Initiated conversion from ad-hoc commands to using Flyway to
         manage structure.
@@ -40,9 +40,9 @@
     -   Led initiative to add indexes and foreign keys to the database,
         approved by management after missing index caused site outage.
 -   Self-initiated improvements between feature work:
-    -   Security updates & bug fixes
-    -   Test coverage and test infrastructure improvements
-    -   Dev tooling improvements
+    -   Fixed bugs and performed security updates.
+    -   Expanded test coverage and test infrastructure.
+    -   Improved dev tooling.
     -   Wrote a well-received bot that automatically updated ticket
         statuses based on merge request status, freeing devs and product
         from nagging for updates.
@@ -119,26 +119,27 @@
 
 ## Community
 
--   PyCascades (regional Python conference)
-    -   Volunteer Chair 2023-2025
--   Can I Use That Code? (Conference talk,
-    [Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
-    Overview of software licences, covering different categories of
-    licences, details of common open-source licences, and how they
-    interact in the same codebase.
--   Intermediate Git Tutorial (Workshop,
-    [Slides](https://docs.google.com/presentation/d/1sfwfoUWerwEtzkJF7O_l7jnHsbCq-czKWIWxjoDV9QI/edit?usp=sharing))
-    Workshop on using git with other people. Covered forking & pull
-    requests on Github, git remotes, merging & rebasing. Co-created &
-    co-presented.
--   vcr.py (Lightning talk,
-    [Slides](https://docs.google.com/presentation/d/1IHhezoU9L6Y_--O8TVjQqCkWs-BveCBtgPzymi3dfMg/edit?usp=sharing))
-    An introduction to vcr.py, a python mocking library for HTTP
-    requests that auto-generates fixtures from live data.
--   Python Implementations (Lightning talk,
-    [Slides](https://docs.google.com/presentation/d/1Tec9Xuw-unYWXvaacjt_uhJKKBn6P07ABiZc8Cs3h90/edit?usp=sharing))
-    An introduction to the different common implementations of Python:
-    CPython, Pypy, Cython, Jython, IronPython.
+-   PyCascades Volunteer Chair (2023-2025) Organized and trained
+    volunteers at regional Python conference for the Pacific Northwest.
+-   Conference talks
+    -   Can I Use That Code? (Conference talk,
+        [Slides](https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit?usp=sharing))
+        Overview of software licences, covering different categories of
+        licences, details of common open-source licences, and how they
+        interact in the same codebase.
+    -   Intermediate Git Tutorial (Workshop,
+        [Slides](https://docs.google.com/presentation/d/1sfwfoUWerwEtzkJF7O_l7jnHsbCq-czKWIWxjoDV9QI/edit?usp=sharing))
+        Workshop on using git with other people. Covered forking & pull
+        requests on Github, git remotes, merging & rebasing. Co-created
+        & co-presented.
+    -   vcr.py (Lightning talk,
+        [Slides](https://docs.google.com/presentation/d/1IHhezoU9L6Y_--O8TVjQqCkWs-BveCBtgPzymi3dfMg/edit?usp=sharing))
+        An introduction to vcr.py, a python mocking library for HTTP
+        requests that auto-generates fixtures from live data.
+    -   Python Implementations (Lightning talk,
+        [Slides](https://docs.google.com/presentation/d/1Tec9Xuw-unYWXvaacjt_uhJKKBn6P07ABiZc8Cs3h90/edit?usp=sharing))
+        An introduction to the different common implementations of
+        Python: CPython, Pypy, Cython, Jython, IronPython.
 
 ## External
 
