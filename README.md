@@ -28,26 +28,52 @@
 
 *Salus, April 2023-July 2025*
 
--   Backend developer for 3rd party API and integrations system,
+-   Backend developer for an external API and an integrations system,
     supported analytics work.
--   Took over ownership of three codebases from senior coworker so they
-    only had to do reviews - handled new features, troubleshooting, and
-    releases with no downtime and no major bugs.
--   Advocated for and contributed to converting database changes from
-    ad-hoc commands to using Flyway to manage structure, and was primary
-    reviewer for database changes.
--   Taught team about database indexes at team retreat and led
-    initiative to add indexes and foreign keys to the database, approved
-    by management after missing index caused site outage.
--   Generated and implemented improvements when no feature work was
-    available, such as fixing bugs, improving dev tools, expanding test
-    coverage and infrastructure, and security fix updates.
+-   Owned three Python codebases: handled new features, troubleshooting,
+    and releases with no downtime and no major bugs
+-   Initiated converting database from ad-hoc commands to using Flyway
+    to manage structure, and stepped up to be primary reviewer for
+    database changes.
+-   Taught team about database indexes and led initiative to add indexes
+    and foreign keys to the database, approved by management after
+    missing index caused site outage.
+-   Self-initiated improvements between feature work, such as security
+    updates, bug fixes, test coverage and infrastructure improvements,
+    and dev tool improvements.
 -   Wrote a well-received bot that automatically updated ticket statuses
     based on merge request status, freeing devs and product from nagging
     for updates.
 -   Researched, selected, and set up documentation solution for public
     API, and initiated notifying API users of breaking changes,
     including writing public changelog posts with upgrade path.
+-   Encouraged and modelled asking questions and having technical
+    discussions in public channels so everyone can see and learn from
+    them in a remote environment.
+-   Backend developer for an external API and an integrations system,
+    supported analytics work.
+-   Owned three Python codebases: handled new features, troubleshooting,
+    and releases with no downtime and no major bugs
+-   Championed database improvements:
+    -   Initiated conversion from ad-hoc commands to using Flyway to
+        manage structure.
+    -   Stepped up to be primary reviewer of database changes.
+    -   Taught team about database indexes.
+    -   Led initiative to add indexes and foreign keys to the database,
+        approved by management after missing index caused site outage.
+-   Self-initiated improvements between feature work:
+    -   Security updates & bug fixes
+    -   Test coverage and test infrastructure improvements
+    -   Dev tooling improvements
+    -   Wrote a well-received bot that automatically updated ticket
+        statuses based on merge request status, freeing devs and product
+        from nagging for updates.
+-   Researched, selected, and set up documentation solution for public
+    API, and initiated notifying API users of breaking changes,
+    including writing public changelog posts with upgrade path.
+-   Encouraged and modelled asking questions and having technical
+    discussions in public channels so everyone can see and learn from
+    them in a remote environment.
 -   *Skills:* Python, FastAPI, SQLAlchemy, PostgreSQL, pytest,
     docker-compose, GitLab CI, git
 
@@ -100,7 +126,7 @@
 *Artefactual, May 2013-March 2017*
 
 -   Designed and implemented customer-driven features in a small team
-    for an open source digital preservation tool in Python 2.
+    for an open source digital preservation tool in Python 2 and Django.
 -   Advocated for technical and process improvements, including code
     review, automated testing, upgrading core frameworks and replacing
     deprecated dependencies.
