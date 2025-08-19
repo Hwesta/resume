@@ -26,7 +26,7 @@
 
 ### Senior Python Developer
 
-*Salus (remote), April 2023-July 2025*
+*Salus (remote), 2023-2025*
 
 -   Backend developer for an external API and an integrations system,
     supported analytics work.
@@ -57,7 +57,7 @@
 
 ### Senior Software Development Engineer
 
-*IT Glue (remote), July 2019-May 2022*
+*IT Glue (remote), 2019-2022*
 
 -   Backend developer in two Ruby on Rails codebases using both MySQL
     and PostgreSQL databases, focusing on database performance.
@@ -85,7 +85,7 @@
 
 ### Python Developer
 
-*Eventbase, July 2018-April 2019*
+*Eventbase, 2018-2019*
 
 -   Backend software developer creating asynchronous APIs for frontend
     and mobile teams.
@@ -101,7 +101,7 @@
 
 ### Lead Archivematica Developer
 
-*Artefactual, May 2013-March 2017*
+*Artefactual, 2013-2017*
 
 -   Designed and implemented customer-driven features in a small team
     for an open source digital preservation tool in Python 2 and Django.
