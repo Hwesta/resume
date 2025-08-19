@@ -26,30 +26,8 @@
 
 ### Senior Python Developer
 
-*Salus, April 2023-July 2025*
+*Salus (remote), April 2023-July 2025*
 
--   Backend developer for an external API and an integrations system,
-    supported analytics work.
--   Owned three Python codebases: handled new features, troubleshooting,
-    and releases with no downtime and no major bugs
--   Initiated converting database from ad-hoc commands to using Flyway
-    to manage structure, and stepped up to be primary reviewer for
-    database changes.
--   Taught team about database indexes and led initiative to add indexes
-    and foreign keys to the database, approved by management after
-    missing index caused site outage.
--   Self-initiated improvements between feature work, such as security
-    updates, bug fixes, test coverage and infrastructure improvements,
-    and dev tool improvements.
--   Wrote a well-received bot that automatically updated ticket statuses
-    based on merge request status, freeing devs and product from nagging
-    for updates.
--   Researched, selected, and set up documentation solution for public
-    API, and initiated notifying API users of breaking changes,
-    including writing public changelog posts with upgrade path.
--   Encouraged and modelled asking questions and having technical
-    discussions in public channels so everyone can see and learn from
-    them in a remote environment.
 -   Backend developer for an external API and an integrations system,
     supported analytics work.
 -   Owned three Python codebases: handled new features, troubleshooting,
@@ -79,7 +57,7 @@
 
 ### Senior Software Development Engineer
 
-*IT Glue, July 2019-May 2022*
+*IT Glue (remote), July 2019-May 2022*
 
 -   Backend developer in two Ruby on Rails codebases using both MySQL
     and PostgreSQL databases, focusing on database performance.
