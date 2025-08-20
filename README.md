@@ -46,7 +46,7 @@
     -   Wrote a well-received bot that automatically updated ticket
         statuses based on merge request status, freeing devs and product
         from nagging for updates.
--   Researched, selected, and set up documentation solution for public
+-   Researched, selected, and set up documentation solution for external
     API, and initiated notifying API users of breaking changes,
     including writing public changelog posts with upgrade path.
 -   Encouraged and modelled asking questions and having technical
