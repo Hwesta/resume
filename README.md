@@ -12,6 +12,7 @@
 -   git
 -   Linux
 -   Developer documentation
+-   SaaS APIs
 
 ### Familiar
 
@@ -40,7 +41,8 @@
     -   Led initiative to add indexes and foreign keys to the database,
         approved by management after missing index caused site outage.
 -   Self-initiated improvements between feature work:
-    -   Fixed bugs and performed security updates.
+    -   Fixed bugs, performed security updates, and improved internal UI
+        to help the support team.
     -   Expanded test coverage and test infrastructure.
     -   Improved dev tooling.
     -   Wrote a well-received bot that automatically updated ticket
@@ -59,8 +61,9 @@
 
 *IT Glue (remote), 2019-2022*
 
--   Backend developer in two Ruby on Rails codebases using both MySQL
-    and PostgreSQL databases, focusing on database performance.
+-   Backend developer in two Ruby on Rails codebases run on AWS using
+    both MySQL and PostgreSQL databases, focusing on database
+    performance.
 -   Main contributor to authorization library update with no associated
     security issues and several security bugs fixed.
 -   Investigated performance impacts of a major database change and
